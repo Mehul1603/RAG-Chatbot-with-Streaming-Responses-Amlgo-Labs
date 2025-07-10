@@ -1,0 +1,1 @@
+from .pinecone import get_index
