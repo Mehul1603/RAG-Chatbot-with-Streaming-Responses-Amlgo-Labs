@@ -13,6 +13,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot that provides real-
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 - [Demo Video](#demo-video)
+- [Project Report](#project-report)
 
 ## 🎯 Project Overview {#project-overview}
 
@@ -285,6 +286,9 @@ print(index.describe_index_stats())
 
 ## 🎥 Demo Video {#demo-video}
 ![RAG Chatbot Demo](./demo.gif)
+
+## 🎯 Project Report {#project-report}
+https://drive.google.com/file/d/12iIsFcLoLZfAQOIRiMgpR2SavAhcbSQT/view?usp=drive_link
 
 ## 🤝 Contributing
 
