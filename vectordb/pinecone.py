@@ -1,4 +1,5 @@
 import os
+import streamlit as st
 from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
 
@@ -7,7 +8,7 @@ def get_index():
     load_dotenv()
 
     # Initialize Pinecone
-    pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
+    pc = Pinecone(api_key=st.secrets["PINECONE_API_KEY"])
     # Configuration
     index_name = "amlgo-chatbot-embeddings"
     dimension = 384 
