@@ -1,3 +1,6 @@
+# Deployed Application Link
+https://rag-chatbot-with-streaming-responses-amlgo-labs.streamlit.app/
+
 # 🤖 AMLGO RAG Chatbot with Real-Time Streaming
 
 A sophisticated Retrieval-Augmented Generation (RAG) chatbot that provides real-time streaming responses with source citations. Built with Streamlit, LangChain, Pinecone vector database, and Groq's fast LLM API.
