@@ -193,18 +193,21 @@ The application will be available at `http://localhost:8501`
 ### Expected Response Format
 
 ```
-Based on the provided context, here's what I found:
+The main topic of this document is [topic], as outlined in the [document type]. The document provides details on [key aspects], including [specific procedures].
 
-[Source 1] The document outlines eBay's User Agreement which includes...
+According to [Source X - Chunk ID: doc_Y], [specific information from source]. [Additional context from the same source].
 
-[Source 2] Regarding arbitration procedures, the agreement states...
+The document also outlines [another aspect], including [specific details] ([Source Z - Chunk ID: doc_W]). [More information about this aspect].
 
-[Source 3] For class action limitations, the document specifies...
+In addition, the document discusses [third aspect], which [explanation] ([Source A - Chunk ID: doc_B]). [Further details about this aspect].
 
-The key points are:
-1. [Specific detail from sources]
-2. [Another important point]
-3. [Additional relevant information]
+The document also addresses [fourth aspect], stating that [specific policy or rule] ([Source C - Chunk ID: doc_D]). [Additional context about this policy].
+
+In terms of limitations, [acknowledgment of information gaps or limitations]. [Additional limitations or caveats].
+
+In conclusion, [restatement of main topic and key points].
+
+Sources: [Source 1 - Chunk ID: doc_X] [Source 2 - Chunk ID: doc_Y] [Source 3 - Chunk ID: doc_Z] [Source 4 - Chunk ID: doc_W] [Source 5 - Chunk ID: doc_V]
 ```
 
 ## 📁 Project Structure {#project-structure}
